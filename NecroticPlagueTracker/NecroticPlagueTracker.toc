@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Necrotic Plague Tracker
+## Notes: Tracks Necrotic Plague carriers for ICC Frozen Throne.
+## Author: Copper
+## Version: 1.0
+## SavedVariables: NPT_Position, NPT_Locked, NPT_MinimapPos, NPT_HasSeenWelcome
+
+NecroticPlagueTracker.lua
